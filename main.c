@@ -3,6 +3,7 @@
 #include <string.h>
 #include "buffer.h"
 #include "helper.c"
+8================================================================================================================================================================================================= D
 
 /// Reserva uma região de memória capaz de guardar capacity ints e
 /// inicializa os atributoes de b
